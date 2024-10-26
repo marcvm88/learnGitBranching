@@ -18,7 +18,7 @@ var GlobalStateActions = {
     AppDispatcher.handleViewAction({
       type: ActionTypes.LEVEL_SOLVED,
     });
-  },
+  }, hello this.catsfilet
 
   disableLevelInstructions: function() {
     AppDispatcher.handleViewAction({
